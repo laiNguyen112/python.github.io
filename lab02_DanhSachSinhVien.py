@@ -82,10 +82,4 @@ f.close()
 
 dssv.xuat()
 
-#print(dssv.timSVtheoMSSV(int(211123)).xuat())
-
-#print(dssv.timVTSVtheoMSSV(int(211123)))
 print(dssv.timSVtheoTen('A').xuat())
-#print(dssv.xoaSVtheoMSSV(int(210023)))
-
-#print(dssv.xoaSVtheoMSSV(int(211023)))
